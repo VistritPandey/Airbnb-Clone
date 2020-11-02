@@ -41,7 +41,7 @@ function Home() {
             <Card
                 src="https://media.nomadicmatt.com/2018/apartment.jpg"
                 title="1 Bedroom apartment"
-                description="Superhost with great amenities like Ghosts, Gobar gas se chalne wala Chulah"
+                description="Host with great amenities like Ghosts, Gobar gas se chalne wala Chulah"
                 price="₹2000/night"
             />
             </div>
